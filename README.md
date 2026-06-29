@@ -28,18 +28,6 @@ Benvenuto nel mio spazio GitHub. Sono uno sviluppatore appassionato di tecnologi
 
 ### 📫 Come contattarmi
 
-<div style="display: flex; flex-wrap: wrap;">
-<!--     <img src="https://githubusercontent.com" width="50" style="margin: 5px;"> -->
-<!--     <img src="https://githubusercontent.com" width="50" style="margin: 5px;"> -->
-<!--     <img src="https://githubusercontent.com" width="50" style="margin: 5px;"> -->
-<!--     <img src="https://github.com" width="50" style="margin: 5px;"> -->
-<!--     <img src="https://githubusercontent.com" width="50" style="margin: 5px;"> -->
-<!--     <img src="https://githubusercontent.com" width="50" style="margin: 5px;"> -->
-<!--     <img src="https://githubusercontent.com" width="50" style="margin: 5px;"> -->
-<!--     <img src="https://githubusercontent.com" width="50" style="margin: 5px;"> -->
-<!--     <img src="https://githubusercontent.com" width="50" style="margin: 5px;"> -->
-    <!-- <img src="https://githubusercontent.com" width="50" style="margin: 5px;"> -->
-    <!-- if you want more icons just add params in here   -->
-    <img src="https://skillicons.dev" style="margin: 5px;">
- 
-</div>
+# Mi potete contattare sia su discord sia su gmail, preferibilmente su discord
+Nome utente discord: customxx_
+Email: custombot.it@gmail.com
