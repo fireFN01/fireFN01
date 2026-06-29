@@ -29,16 +29,17 @@ Benvenuto nel mio spazio GitHub. Sono uno sviluppatore appassionato di tecnologi
 ### 📫 Come contattarmi
 
 <div style="display: flex; flex-wrap: wrap;">
-  <a href="https://linkedin.com" target="_blank" style="margin: 5px;">
-    <img src="https://skillicons.dev" alt="LinkedIn">
-  </a>
-  <a href="https://instagram.com" target="_blank" style="margin: 5px;">
-    <img src="https://skillicons.dev" alt="Instagram">
-  </a>
-  <a href="https://twitter.com" target="_blank" style="margin: 5px;">
-    <img src="https://skillicons.dev" alt="Twitter/X">
-  </a>
-  <a href="mailto:la-tua-email@email.com" style="margin: 5px;">
-    <img src="https://skillicons.dev" alt="Gmail">
-  </a>
+<!--     <img src="https://githubusercontent.com" width="50" style="margin: 5px;"> -->
+<!--     <img src="https://githubusercontent.com" width="50" style="margin: 5px;"> -->
+<!--     <img src="https://githubusercontent.com" width="50" style="margin: 5px;"> -->
+<!--     <img src="https://github.com" width="50" style="margin: 5px;"> -->
+<!--     <img src="https://githubusercontent.com" width="50" style="margin: 5px;"> -->
+<!--     <img src="https://githubusercontent.com" width="50" style="margin: 5px;"> -->
+<!--     <img src="https://githubusercontent.com" width="50" style="margin: 5px;"> -->
+<!--     <img src="https://githubusercontent.com" width="50" style="margin: 5px;"> -->
+<!--     <img src="https://githubusercontent.com" width="50" style="margin: 5px;"> -->
+    <!-- <img src="https://githubusercontent.com" width="50" style="margin: 5px;"> -->
+    <!-- if you want more icons just add params in here   -->
+    <img src="https://skillicons.dev" style="margin: 5px;">
+ 
 </div>
