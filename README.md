@@ -26,8 +26,8 @@ Benvenuto nel mio spazio GitHub. Sono uno sviluppatore appassionato di tecnologi
 </div>
 
 
-### 📫 Come contattarmi
+## 📫 Come contattarmi
 
-# Mi potete contattare sia su discord sia su gmail, preferibilmente su discord
-Nome utente discord: customxx_
-Email: custombot.it@gmail.com
+*Mi potete contattare sia su discord sia su gmail, preferibilmente su discord*
+### Nome utente discord: customxx_
+### Email: custombot.it@gmail.com
