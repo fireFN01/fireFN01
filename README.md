@@ -2,8 +2,8 @@
 
 Benvenuto nel mio spazio GitHub. Sono uno sviluppatore appassionato di tecnologia, focalizzato sulla scrittura di codice pulito, efficiente e scalabile per risolvere problemi reali.
 
-- 💻 Attualmente sto lavorando su **[Inserisci un tuo progetto o ambito, es: Applicazioni Web]**
-- 📚 Sto approfondendo lo studio di **[Inserisci una tecnologia che stai studiando, es: Cloud Computing]**
+- 💻 Attualmente sto lavorando su **snowpl un sito che permette il supporto di grandi aziende**
+- 📚 Sto approfondendo lo studio di **typescript & react**
 - 🤝 Sono aperto a collaborazioni su **Progetti Open Source e idee innovative**
 
 ---
@@ -11,13 +11,12 @@ Benvenuto nel mio spazio GitHub. Sono uno sviluppatore appassionato di tecnologi
 ### 🛠️ Tecnologie e Strumenti
 
 <p align="left">
-  <!-- Sostituisci o aggiungi i tuoi linguaggi. Ecco alcuni esempi pronti: -->
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="TypeScript" />
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="Node.js" />
-  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io/JavaScript" alt="JavaScript" />
+  <img src="https://shields.io/python" alt="Python" />
+  <img src="https://shields.io/typescript" alt="TypeScript" />
+  <img src="https://shields.io/react" alt="React" />
+  <img src="https://shields.io/node.js" alt="Node.js" />
+  <img src="https://shields.io/git" alt="Git" />
 </p>
 
 ---
