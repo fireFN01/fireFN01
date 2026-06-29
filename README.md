@@ -25,26 +25,20 @@ Benvenuto nel mio spazio GitHub. Sono uno sviluppatore appassionato di tecnologi
  
 </div>
 
----
-
-### 📊 Le mie Statistiche di GitHub
-
-<p align="center">
-  <img src="https://vercel.app" alt="Statistiche GitHub" width="48%" />
-  <img src="https://vercel.app" alt="Linguaggi più usati" width="48%" />
-</p>
-
----
 
 ### 📫 Come contattarmi
 
-<p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
+<div style="display: flex; flex-wrap: wrap;">
+  <a href="https://linkedin.com" target="_blank" style="margin: 5px;">
+    <img src="https://skillicons.dev" alt="LinkedIn">
   </a>
-  <a href="mailto:la-tua-email@email.com">
-    <img src="https://shields.io" alt="Email" />
+  <a href="https://instagram.com" target="_blank" style="margin: 5px;">
+    <img src="https://skillicons.dev" alt="Instagram">
   </a>
-</p>
-
-
+  <a href="https://twitter.com" target="_blank" style="margin: 5px;">
+    <img src="https://skillicons.dev" alt="Twitter/X">
+  </a>
+  <a href="mailto:la-tua-email@email.com" style="margin: 5px;">
+    <img src="https://skillicons.dev" alt="Gmail">
+  </a>
+</div>
