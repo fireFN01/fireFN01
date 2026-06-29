@@ -11,12 +11,12 @@ Benvenuto nel mio spazio GitHub. Sono uno sviluppatore appassionato di tecnologi
 ### 🛠️ Tecnologie e Strumenti
 
 <p align="left">
-  <img src="https://shields.io/JavaScript" alt="JavaScript" />
-  <img src="https://shields.io/python" alt="Python" />
-  <img src="https://shields.io/typescript" alt="TypeScript" />
-  <img src="https://shields.io/react" alt="React" />
-  <img src="https://shields.io/node.js" alt="Node.js" />
-  <img src="https://shields.io/git" alt="Git" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="TypeScript" />
+  <img src="https://shields.io" alt="React" />
+  <img src="https://shields.io" alt="Node.js" />
+  <img src="https://shields.io" alt="Git" />
 </p>
 
 ---
