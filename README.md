@@ -9,7 +9,6 @@ Benvenuto nel mio spazio GitHub. Sono uno sviluppatore appassionato di tecnologi
 ---
 
 ### 🛠️ Tecnologie e Strumenti
-
 <p align="left">
   <img src="https://shields.io" alt="JavaScript" />
   <img src="https://shields.io" alt="Python" />
